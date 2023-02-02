@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/eirik64/manganato_redesign/static/css/main.21ba82b7.css",
-    "main.js": "/eirik64/manganato_redesign/static/js/main.1ee87c04.js",
+    "main.js": "/eirik64/manganato_redesign/static/js/main.61736295.js",
     "index.html": "/eirik64/manganato_redesign/index.html",
     "main.21ba82b7.css.map": "/eirik64/manganato_redesign/static/css/main.21ba82b7.css.map",
-    "main.1ee87c04.js.map": "/eirik64/manganato_redesign/static/js/main.1ee87c04.js.map"
+    "main.61736295.js.map": "/eirik64/manganato_redesign/static/js/main.61736295.js.map"
   },
   "entrypoints": [
     "static/css/main.21ba82b7.css",
-    "static/js/main.1ee87c04.js"
+    "static/js/main.61736295.js"
   ]
 }
